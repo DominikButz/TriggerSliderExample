@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "c37a9b983607173aaa619ac75dddc039d218593258e73e88f59f5ba0cd0a13c2"
+build_start_time: [1636445190, 788189888]
+build_end_time: [1636445191, 468497991]
+inputs:
+  ? "/Users/Dominik/Library/Developer/Xcode/DerivedData/TriggerSliderExample-dmsnvlcgkkpykkfnvckafqlxyqed/SourcePackages/checkouts/neumorphic/Sources/Neumorphic/ColorExtension.swift"
+  : [1636445135, 381750106]
+  ? "/Users/Dominik/Library/Developer/Xcode/DerivedData/TriggerSliderExample-dmsnvlcgkkpykkfnvckafqlxyqed/SourcePackages/checkouts/neumorphic/Sources/Neumorphic/NeumorphicKit.swift"
+  : [1636445135, 381808996]
+  ? "/Users/Dominik/Library/Developer/Xcode/DerivedData/TriggerSliderExample-dmsnvlcgkkpykkfnvckafqlxyqed/SourcePackages/checkouts/neumorphic/Sources/Neumorphic/SoftButtonStyle.swift"
+  : [1636445135, 381868839]
+  ? "/Users/Dominik/Library/Developer/Xcode/DerivedData/TriggerSliderExample-dmsnvlcgkkpykkfnvckafqlxyqed/SourcePackages/checkouts/neumorphic/Sources/Neumorphic/SoftDynamicToggleStyle.swift"
+  : [1636445135, 381945133]
+  ? "/Users/Dominik/Library/Developer/Xcode/DerivedData/TriggerSliderExample-dmsnvlcgkkpykkfnvckafqlxyqed/SourcePackages/checkouts/neumorphic/Sources/Neumorphic/SoftInnerShadowViewModifier.swift"
+  : [1636445135, 382011413]
+  ? "/Users/Dominik/Library/Developer/Xcode/DerivedData/TriggerSliderExample-dmsnvlcgkkpykkfnvckafqlxyqed/SourcePackages/checkouts/neumorphic/Sources/Neumorphic/SoftOuterShadowViewModifier.swift"
+  : [1636445135, 382075786]
+  ? "/Users/Dominik/Library/Developer/Xcode/DerivedData/TriggerSliderExample-dmsnvlcgkkpykkfnvckafqlxyqed/SourcePackages/checkouts/neumorphic/Sources/Neumorphic/View+InverseMask.swift"
+  : [1636445135, 382133483]

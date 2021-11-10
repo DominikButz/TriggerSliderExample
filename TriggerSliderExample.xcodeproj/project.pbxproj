@@ -14,6 +14,8 @@
 		B423BBE3273680CD007A7239 /* TriggerSliderExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B423BBE2273680CD007A7239 /* TriggerSliderExampleTests.swift */; };
 		B423BBED273680CD007A7239 /* TriggerSliderExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B423BBEC273680CD007A7239 /* TriggerSliderExampleUITests.swift */; };
 		B423BBEF273680CD007A7239 /* TriggerSliderExampleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B423BBEE273680CD007A7239 /* TriggerSliderExampleUITestsLaunchTests.swift */; };
+		B423BC0B273A6351007A7239 /* Neumorphic in Frameworks */ = {isa = PBXBuildFile; productRef = B423BC0A273A6351007A7239 /* Neumorphic */; };
+		B423BC10273A7683007A7239 /* TriggerSlider in Frameworks */ = {isa = PBXBuildFile; productRef = B423BC0F273A7683007A7239 /* TriggerSlider */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,7 @@
 		B423BBE8273680CD007A7239 /* TriggerSliderExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TriggerSliderExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B423BBEC273680CD007A7239 /* TriggerSliderExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriggerSliderExampleUITests.swift; sourceTree = "<group>"; };
 		B423BBEE273680CD007A7239 /* TriggerSliderExampleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriggerSliderExampleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B423BC0D273A764D007A7239 /* TriggerSlider */ = {isa = PBXFileReference; lastKnownFileType = folder; name = TriggerSlider; path = ../TriggerSlider; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +54,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B423BC10273A7683007A7239 /* TriggerSlider in Frameworks */,
+				B423BC0B273A6351007A7239 /* Neumorphic in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -74,10 +79,12 @@
 		B423BBC5273680CB007A7239 = {
 			isa = PBXGroup;
 			children = (
+				B423BC0C273A764D007A7239 /* Packages */,
 				B423BBD0273680CB007A7239 /* TriggerSliderExample */,
 				B423BBE1273680CD007A7239 /* TriggerSliderExampleTests */,
 				B423BBEB273680CD007A7239 /* TriggerSliderExampleUITests */,
 				B423BBCF273680CB007A7239 /* Products */,
+				B423BC0E273A7683007A7239 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -127,6 +134,21 @@
 			path = TriggerSliderExampleUITests;
 			sourceTree = "<group>";
 		};
+		B423BC0C273A764D007A7239 /* Packages */ = {
+			isa = PBXGroup;
+			children = (
+				B423BC0D273A764D007A7239 /* TriggerSlider */,
+			);
+			name = Packages;
+			sourceTree = "<group>";
+		};
+		B423BC0E273A7683007A7239 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -143,6 +165,10 @@
 			dependencies = (
 			);
 			name = TriggerSliderExample;
+			packageProductDependencies = (
+				B423BC0A273A6351007A7239 /* Neumorphic */,
+				B423BC0F273A7683007A7239 /* TriggerSlider */,
+			);
 			productName = TriggerSliderExample;
 			productReference = B423BBCE273680CB007A7239 /* TriggerSliderExample.app */;
 			productType = "com.apple.product-type.application";
@@ -215,6 +241,9 @@
 				Base,
 			);
 			mainGroup = B423BBC5273680CB007A7239;
+			packageReferences = (
+				B423BC09273A6351007A7239 /* XCRemoteSwiftPackageReference "neumorphic" */,
+			);
 			productRefGroup = B423BBCF273680CB007A7239 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -607,6 +636,29 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		B423BC09273A6351007A7239 /* XCRemoteSwiftPackageReference "neumorphic" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/costachung/neumorphic/";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		B423BC0A273A6351007A7239 /* Neumorphic */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B423BC09273A6351007A7239 /* XCRemoteSwiftPackageReference "neumorphic" */;
+			productName = Neumorphic;
+		};
+		B423BC0F273A7683007A7239 /* TriggerSlider */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = TriggerSlider;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = B423BBC6273680CB007A7239 /* Project object */;
 }

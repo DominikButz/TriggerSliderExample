@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+TriggerSliderExample in TriggerSliderExample, no dependencies
+TriggerSliderExampleTests in TriggerSliderExample, depends on:
+TriggerSliderExample in TriggerSliderExample (explicit)
+TriggerSliderExampleUITests in TriggerSliderExample, depends on:
+TriggerSliderExample in TriggerSliderExample (explicit)

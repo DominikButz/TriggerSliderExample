@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "a9794f2a09eccd0d80f475ba9aa863738e9c0fe8df42ccb3e2aa7f09930e8382"
+build_start_time: [1636190675, 179496049]
+build_end_time: [1636190677, 514371871]
+inputs:
+  ? "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/TriggerSliderExampleUITests/TriggerSliderExampleUITests.swift"
+  : [1636190541, 29886722]
+  ? "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/TriggerSliderExampleUITests/TriggerSliderExampleUITestsLaunchTests.swift"
+  : [1636190541, 32078266]

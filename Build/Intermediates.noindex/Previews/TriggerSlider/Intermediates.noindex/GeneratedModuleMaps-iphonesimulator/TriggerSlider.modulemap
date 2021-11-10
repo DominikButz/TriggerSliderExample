@@ -1,0 +1,4 @@
+module TriggerSlider {
+header "TriggerSlider-Swift.h"
+export *
+}

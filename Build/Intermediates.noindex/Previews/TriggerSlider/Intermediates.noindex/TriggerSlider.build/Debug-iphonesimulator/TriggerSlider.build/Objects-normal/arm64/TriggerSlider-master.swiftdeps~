@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "5d4f0d09b9d782470d960dd2bc8908c7ce27b62f0ab7c7e1681d7e0ca0f6bb1f"
+build_start_time: [1636437247, 700394153]
+build_end_time: [1636437248, 17647981]
+inputs:
+  "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSlider/Sources/TriggerSlider/TriggerSlider.swift": !private [1636437247, 434123516]
+  "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSlider/Sources/TriggerSlider/TriggerSliderSettings.swift": [1636437247, 455816745]

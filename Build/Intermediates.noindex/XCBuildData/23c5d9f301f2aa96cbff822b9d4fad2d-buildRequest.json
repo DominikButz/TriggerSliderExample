@@ -1,0 +1,196 @@
+{
+  "_buildCommand2" : {
+    "command" : "preview"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "52f09b9dc35d061fe0193a50d16a5f9bde3e88bc932ae4314575ed5a5461453a",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.0",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Products",
+          "derivedDataPath" : "/Users/Dominik/Library/Developer/Xcode/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/Dominik/Library/Developer/Xcode/DerivedData/TriggerSliderExample-dmsnvlcgkkpykkfnvckafqlxyqed/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/Dominik/Library/Developer/Xcode/DerivedData/TriggerSliderExample-dmsnvlcgkkpykkfnvckafqlxyqed/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Intermediates.noindex/Previews/TriggerSliderExample/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Intermediates.noindex/Previews/TriggerSliderExample/Intermediates.noindex",
+              "SYMROOT" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Intermediates.noindex/Previews/TriggerSliderExample/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "3FA35180-21B8-47E5-B373-7BDB7A07FF41",
+              "TARGET_DEVICE_MODEL" : "iPhone14,5",
+              "TARGET_DEVICE_OS_VERSION" : "15.0",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "52f09b9dc35d061fe0193a50d16a5f9b742cc4ee870564ddff06d46b251900f9",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.0",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Products",
+          "derivedDataPath" : "/Users/Dominik/Library/Developer/Xcode/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/Dominik/Library/Developer/Xcode/DerivedData/TriggerSliderExample-dmsnvlcgkkpykkfnvckafqlxyqed/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/Dominik/Library/Developer/Xcode/DerivedData/TriggerSliderExample-dmsnvlcgkkpykkfnvckafqlxyqed/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Intermediates.noindex/Previews/TriggerSliderExample/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Intermediates.noindex/Previews/TriggerSliderExample/Intermediates.noindex",
+              "SYMROOT" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Intermediates.noindex/Previews/TriggerSliderExample/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "3FA35180-21B8-47E5-B373-7BDB7A07FF41",
+              "TARGET_DEVICE_MODEL" : "iPhone14,5",
+              "TARGET_DEVICE_OS_VERSION" : "15.0",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "52f09b9dc35d061fe0193a50d16a5f9b1401b2fe3950a2da47841edd0c8c5607",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.0",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Products",
+          "derivedDataPath" : "/Users/Dominik/Library/Developer/Xcode/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/Dominik/Library/Developer/Xcode/DerivedData/TriggerSliderExample-dmsnvlcgkkpykkfnvckafqlxyqed/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/Dominik/Library/Developer/Xcode/DerivedData/TriggerSliderExample-dmsnvlcgkkpykkfnvckafqlxyqed/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Intermediates.noindex/Previews/TriggerSliderExample/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Intermediates.noindex/Previews/TriggerSliderExample/Intermediates.noindex",
+              "SYMROOT" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Intermediates.noindex/Previews/TriggerSliderExample/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "3FA35180-21B8-47E5-B373-7BDB7A07FF41",
+              "TARGET_DEVICE_MODEL" : "iPhone14,5",
+              "TARGET_DEVICE_OS_VERSION" : "15.0",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/TriggerSliderExample.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Products",
+      "derivedDataPath" : "/Users/Dominik/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/Dominik/Library/Developer/Xcode/DerivedData/TriggerSliderExample-dmsnvlcgkkpykkfnvckafqlxyqed/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/Dominik/Library/Developer/Xcode/DerivedData/TriggerSliderExample-dmsnvlcgkkpykkfnvckafqlxyqed/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone14,5",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.0",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "3FA35180-21B8-47E5-B373-7BDB7A07FF41",
+          "TARGET_DEVICE_MODEL" : "iPhone14,5",
+          "TARGET_DEVICE_OS_VERSION" : "15.0",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

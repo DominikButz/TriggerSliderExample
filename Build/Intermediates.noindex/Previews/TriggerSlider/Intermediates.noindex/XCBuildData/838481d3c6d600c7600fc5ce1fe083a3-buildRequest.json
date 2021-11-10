@@ -1,0 +1,58 @@
+{
+  "_buildCommand2" : {
+    "command" : "preview"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "PACKAGE-PRODUCT:TriggerSlider"
+    }
+  ],
+  "containerPath" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/TriggerSliderExample.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Products",
+      "derivedDataPath" : "/Users/Dominik/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/Dominik/Library/Developer/Xcode/DerivedData/TriggerSliderExample-dmsnvlcgkkpykkfnvckafqlxyqed/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/Dominik/Library/Developer/Xcode/DerivedData/TriggerSliderExample-dmsnvlcgkkpykkfnvckafqlxyqed/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "DSTROOT" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Intermediates.noindex/Previews/TriggerSlider/ReleaseProducts",
+          "ENABLE_PREVIEWS" : "YES",
+          "OBJROOT" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Intermediates.noindex/Previews/TriggerSlider/Intermediates.noindex",
+          "SYMROOT" : "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/Build/Intermediates.noindex/Previews/TriggerSlider/Products"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

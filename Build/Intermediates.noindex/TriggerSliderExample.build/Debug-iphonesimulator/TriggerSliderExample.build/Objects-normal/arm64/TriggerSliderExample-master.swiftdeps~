@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1636193365, 981491088]
+build_end_time: [1636193366, 363306045]
+inputs:
+  "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/TriggerSliderExample/ContentView.swift": [1636190539, 259588718]
+  "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/TriggerSliderExample/TriggerSlider.swift": !private [1636193364, 206117630]
+  "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/TriggerSliderExample/TriggerSliderExampleApp.swift": [1636190539, 258181095]

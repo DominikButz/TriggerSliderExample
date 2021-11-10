@@ -1,0 +1,24 @@
+{
+  "source": "/Users/Dominik/Documents/Programmieren/Libraries/TriggerSliderExample/TriggerSliderExample/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Trigger Slider Examples"
+      },
+      {
+        "comment": "",
+        "key": "Slide to Unlock"
+      },
+      {
+        "comment": "",
+        "key": "Slider Action"
+      },
+      {
+        "comment": "",
+        "key": "Reset"
+      }
+    ]
+  },
+  "version": 1
+}
